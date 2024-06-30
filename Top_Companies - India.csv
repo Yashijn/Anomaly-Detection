@@ -1,0 +1,436 @@
+Name,site,Tickers
+NTPC,NTP,NTPC
+Hindustan_Zinc,HZ,HINDZINC
+Vedanta,SG,VEDL
+Asian_Paints,AP31,ASIANPAINT
+Mahindra&Mahindra,MM,M&M
+GAIL(India),GAI,GAIL
+Eicher_Motors,EM,EICHERMOT
+Hero_Motocorp,HHM,HEROMOTOCO
+Motherson_Sumi_Systems,MSS01,MOTHERSUMI
+General_Insurance,GIC12,GICRE
+Bosch,B05,BOSCHLTD
+New_India_Assura,NIA,NIACL
+HPCL,HH,HINDPETRO
+Zee_Entertainment,ZEE,ZEEL
+Ambuja_Cem.,AC18,AMBUJACEM
+Interglobe_Aviation,IA04,INDIGO
+Piramal_Enterp.,PH05,PEL
+United_Spirits,US,MCDOWELL-N
+Pidilite_Inds.,PI11,PIDILITIND
+Cadila_Health.,CHC,CADILAHC
+NMDC,NMD02,NMDC
+DLF,D04,DLF
+Marico,M13,MARICO
+Ashok_Leyland,AL,ASHOKLEY
+Bharat_Electronics,BE03,BEL
+ICICI_Lombard,ILG,ICICIGI
+Petronet_LNG,PLN,PETRONET
+Aditya_Birla_Cap,ABC9,ABCAPITAL
+SAIL,SAI,SAIL
+UPL,UP04,UPL
+Oracle_FinServ.,OFS01,OFSS
+Bharat_Forge,BF03,BHARATFORG
+Biocon,BL03,BIOCON
+Aurobindo_Pharma,AP,AUROPHARMA
+Bank_of_Baroda,BOB,BANKBARODA
+Havells_India,HI01,HAVELLS
+Container_Corpn.,CCI,CONCOR
+TVS_Motor,TVS,TVSMOTOR
+ACC,ACC06,ACC
+Bajaj_Holdings,BHI,BAJAJHLDNG
+P&G_Hygiene,PGH,PGHH
+MRF,MRF,MRF
+Colgate-Palm.,CPI,COLPAL
+NHPC_Ltd,N07,NHPC
+United_Breweries,UB02,UBL
+Oil_India,OI13,OIL
+Rural_Elec.Corp.,REC02,RECLTD
+M&M_FinServ.,MMF04, M&MFIN
+Kansai_Nerolac,KNP,KANSAINER
+Alkem Lab,AL05,ALKEM
+LIC Housing Fin.,LIC,LICHSGFIN
+Future Retail,FR,FRETAIL
+Page Industries,PI35,PAGEIND
+Dalmia Bhar.,OCL,DALMIASUG
+Emami,E06,EMAMILTD
+Cummins India,CI02,CUMMINSIND
+Berger Paints,BPI02,BERGEPAINT
+Rajesh Exports,RE07,RAJESHEXPO
+Tata Power Co.,TPC,TATAPOWER
+3M India,MI42,3MINDIA
+Jindal Steel,JSP,JINDALSTEL
+Edelweiss.Fin.,EC01,EDELWEISS
+Gillette India,GI22, GILLETTE
+Adani Transmission,AT22,ADANITRANS
+Balkrishna Inds,BI03,BALKRISIND
+Cholaman.Inv.&Fn,CDB,CHOLAFIN
+Indraprastha Gas,IG04,IGL
+M R P L,MRP,MRPL
+PNB Housing,PHF,PNBHOUSING
+RBL Bank,RB03,RBLBANK
+Castrol India,CI01,CASTROLIND
+Canara Bank,CB06,CANBK
+KIOCL,KIO,KIOCL
+Voltas,V,VOLTAS
+Godrej Inds.,GI23,GODREJIND
+Whirlpool India,WI,WHIRLPOOL
+Sundaram Finance,SF20,SUNDARMFIN
+Federal Bank,FB,FEDERALBNK
+Tata Comm,TC17,TATACOMM
+Endurance Tech.,ET01,ENDURANCE
+Tata Chemicals,TC,TATACHEM
+Exide Inds.,EI,EXIDEIND
+IDFC Bank,IDF,IDFCFIRSTB
+NBCC,NBC01,NBCC
+IDBI Bank,IDB05,IDBI
+MphasiS,MB02,MPHASIS
+Apollo Hospitals,AHE,APOLLOHOSP
+AU Small Finance,ASF02,AUBANK
+Indian Hotels,IHC,INDHOTEL
+H U D C O,HUD,HUDCO
+Oberoi Realty,OR,OBEROIRLTY
+Indian Bank,IB04,INDIANB
+SJVN,S11,SJVN
+Bank of India,BOI,BANKINDIA
+Supreme Inds.,SI48,SUPREMEIND
+Muthoot Finance,MF10,MUTHOOTFIN
+NLC India,NLC,NLCINDIA
+Info Edg.(India),IEI01,NAUKRI
+Glenmark Pharma.,GP08,GLENMARK
+Jubilant Foods,JF04,JUBLFOOD
+Crompton Gr. Con,CGC01,CROMPTON
+Honeywell Auto,HA04,HONAUT
+Natco Pharma,NP07,NATCOPHARM
+PC Jeweller,PJ, PCJEWELLER
+Quess Corp,QC,QUESS
+CRISIL,CRI,CRISIL
+WABCO India,WAB,WABCOINDIA
+Sterlite Tech.,ST20,STLTECH
+AIA Engg.,AIE01,AIAENG
+KRBL,KRB01,KRBL
+Max Financial,MI, MFSL
+Century Textiles,CTI,CENTURYTEX
+Bayer Crop Sci.,BC12,BAYERCROP
+Graphite India,GI13,GRAPHITE
+Central Bank,CBO01,CENTRALBK
+Natl. Aluminium,NAC,NATIONALUM
+CESC,CES,CESC
+Shri.City Union.,SCU,SHRIRAMCIT
+Rain Industries,RC12,RAIN
+Torrent Power,TP14,TORNTPOWER
+Dilip Buildcon,DB04,DBL
+JM Financial,JMF,JMFINANCIL
+Reliance Power,RP,RPOWER
+Reliance Capital,RC,RELCAPITAL
+Syngene Intl.,SI10, SYNGENE
+Abbott India,AI51,ABBOTINDIA
+Hatsun AgroProd.,HAP,HATSUN
+Symphony,SCS04,SYMPHONY
+Gujarat Gas,GGC,GUJGASLTD
+Reliance Infra.,RI38,RELINFRA
+Ajanta Pharma,AP22,AJANTPHARM
+P I Inds.,PII,PIIND
+City Union Bank,CUB,CUB
+Varun Beverages,VB05,VBL
+Mindtree,MT13, MINDTREE
+Prestige Estates,PEP02,PRESTIGE
+Future Consumer,FVI,FCONSUMER
+Sundram Fasten.,SF23,SUNDRMFAST
+Sanofi India,AP26,SANOFI
+Finolex Cables,FC01,FINCABLES
+Bombay Burmah,BBT,BBTC
+SRF,SRF,SRF
+GE T&D India,ATD,GET&D
+Alembic Pharma,AP35,APLLTD
+SPARC,SPA,SPARC
+GMR Infra.,GI27,GMRINFRA
+HEG,HEG,HEG
+Trent,T04,TRENT
+Engineers India,EI14,ENGINERSIN
+Avanti Feeds,AF21,AVANTIFEED
+Pfizer,P,PFE
+Escorts,E,ESCORTS
+Blue Dart Exp.,BDE,BLUEDART
+ERIS Lifescience,EL01,ERIS
+Arvind Ltd,A18,ARVIND
+Sundaram Clayton,SC,SUNCLAYLTD
+Mahanagar Gas,MG02,MGL
+Reliance ,RI,RELIANCE
+Axis Bank ,UTI10,AXISBANK
+Infosys ,IT,INFY
+Adani Ports ,MPS,ADANIPORTS
+Nestle India ),NI,NESTLEIND
+Power Grid Corporation India ,PGC,POWERGRID
+Larsen and Tourbo ,LT,LT
+Divi Laboratories ,DL03,DIVISLAB
+Shriram Transport Finance,STF,SRTRANSFIN
+State Bank Of India ,SBI,SBIN
+Tata Consultancy Service,TCS,TCS
+HDFC Bank,HDF01,HDFCBANK
+ITC ,ITC,ITC
+TATA steel ,TIS,TATASTEEL
+Bajaj Finserv,BF04,BAJAJFINSV
+Sun Pharma ,SPI,SUNPHARMA
+HCL Technologies ,HCL02,HCLTECH
+Adani Power,AP!1,ADANIPOWER
+Bharat Petroleum ,BPC,BPCL
+Wipro ,W,WIPRO
+Yes Bank ,YB,YESBANK
+Tech Mahindra ,TM4,TECHM
+Dr Reddy's Laboratories ,DRL,DRREDDY
+Coal India,CI11,COALINDIA
+ONGC ,ONG,ONGC
+IndusInd Bank ,IIB,INDUSINDBK
+Inian Oil Corporation ,IOC,IOC
+Titan,TI01,TITAN
+SBI Life Insurance,SLI03,SBILIFE
+Maruti Suzuki,MS24,MARUTI
+Cipla ,C,CIPLA
+Grasim industries ,GI01,GRASIM
+Hawkins cooker ,HC02,HAWKINCOOK
+Punjab National Bank ,PNB05,PNB
+Britannia Industries ,BI,BRITANNIA
+Dabur India ,DI,DABUR
+SKF India,SKF01,SKFINDIA
+Delta Corp,DC11,DELTACORP
+Union Bank (I),UBI01,UNIONBANK
+TV18 Broadcast,IBN,TV18BRDCST
+Minda Inds.,MI4,MINDAIND
+Solar Inds.,SII04,SOLARINDS
+Kajaria Ceramics,KC06,KAJARIACER
+Astral Poly,APT02,ASTRAL
+Bata India,BI01,BATAINDIA
+BASF India,BAS,BASF
+DCM Shriram,DCM02,DCMSHRIRAM
+Infibeam Incorp.,IIL03,INFIBEAM
+Aegis Logistics,AL9,AEGISCHEM
+Mahindra CIE,MF19,MAHINDCIE
+Jet Airways,JA01,JETAIRWAYS
+SpiceJet,SJ01,SPICEJET
+Thomas Cook (I),TCI,THOMASCOOK
+Guj Fluorochem,GUJAR54281,GUJFLUORO
+Wockhardt,W05,WOCKPHARMA
+Akzo Nobel,ICI,AKZA
+I D F C,IDF,IDFC
+Security & Intel,,
+Asahi India Glas,AIG01,ASAHIINDIA
+TTK Prestige,TTK02,TTKPRESTIG
+ITI,ITI,ITI
+Karur Vysya Bank,KVB,KARURVYSYA
+Vardhman Textile,VT01,VTL
+Fortis Health.,FH,FORTIS
+Ipca Labs.,IL,IPCALAB
+Sheela Foam,SF14,SFL
+IRB Infra.Devl.,IID01,IRB
+Atul,A06,ATUL
+Finolex Inds.,FI,FINPIPE
+Dish TV,DTV,DISH
+Rel. Comm.,RC13,RCOM
+Dr Lal Pathlabs,DLP01,LALPATHLAB
+OCL India,IOC,OCL
+NCC,NCC01,NCC
+Relaxo Footwear,RF07,RELAXO
+J K Cements,JKC03,JKCEMENT
+G N F C,GNV,GNFC
+Cochin Shipyard,CS,COCHINSHIP
+Bajaj Corp,,BAJAJCON
+Birla Corpn.,BC07,BIRLACORPN
+Future Lifestyle,FLF01,FLFL
+Century Ply.,CP9,CENTURYPLY
+Blue Star,BS,BLUESTARCO
+Kalpataru Power,KPT,KALPATPOWR
+Suzlon Energy,SE17,SUZLON
+Cyient,IE07,CYIENT
+Hind.Copper,HC07,HINDCOPPER
+Guj Pipavav Port,GPP03,GPPL
+Carborundum Uni.,CU,CARBORUNIV
+Can Fin Homes,CFH,CANFINHOME
+Sadbhav Engg.,SE19,SADBHAV
+Advanta,AI39,ADVANTA
+Capital First,FCH,CAPF
+Lak. Mach. Works,LMW,LAXMIMACH
+Himadri Specialt,HCI01,HSCL
+Coffee Day Enter,CDE,COFFEEDAY
+PVR,PVR,PVR
+Chambal Fert.,CFC,CHAMBLFERT
+Vijaya Bank,VB03,VIJAYABANK
+Welspun India,WI03,WELSPUNIND
+CEAT,C07,CEATLTD
+Strides Shasun,SA10,STAR
+Narayana Hrudaya,NH,NH
+Jyothy Lab.,JL,JYOTHYLAB
+Johnson Con. Hit,HHL,JCHAC
+Prism Cement,PCB01,PRSMJOHNSN
+Tata Elxsi,TECHN54214,TATAELXSI
+Syndicate Bank,SB9,SYNDIBANK
+D B Corp,C13,DBCORP
+Jain Irrigation,JIS02,JISLJALEQS
+Persistent Sys,PS15,PERSISTENT
+Redington India,RI37,REDINGTON
+Sunteck Realty,SR05,SUNTECK
+Raymond,R,RAYMOND
+MOIL,M18,MOIL
+Bombay Dyeing,BDM,BOMDYEING
+GE Shipping Co,GES,GESHIP
+Grindwell Norton,GNV,GRINDWELL
+EID Parry,EID,EIDPARRY
+I O B,IOB,IOB
+Galaxy Surfact.,GSL06,GALAXYSURF
+Laurus Labs,LL05,LAURUSLABS
+Guj Alkalies,GAC01,GUJALKALI
+GE Power,AP29,GE
+Timken India,TI23,TIMKEN
+C P C L,CPC02,CHENNPETRO
+Dishman Carbogen,DCA, DCAL
+St Bk of Bikaner,SBB02,SBBJ
+ISGEC Heavy,SIS06,ISGEC
+MMTC,MMT,MMTC
+IFB Inds.,,IFBIND
+eClerx Services,EeS06, ECLERX
+Sobha,SD6,SOBHA
+Kirloskar Oil,KOE03,KIRLOSENG
+G S F C,GSF,GSFC
+CG Power & Indu.,CG,CGPOWER
+Westlife Develop,DIC,WESTLIFE
+K P R Mill Ltd,M15,KPRMILL
+Tube Investments,TIIND54076,TIINDIA
+Bajaj Electrical,,BAJAJELEC
+VST Inds.,VST,VSTIND
+BEML Ltd,BEM03,BEML
+FDC,FDC03,FDC
+DCB Bank,DCB01,DCBBANK
+Star Cement,SFC02,STARCEMENT
+Netwrk.18 Media,NMI,NETWORK18
+Gulf Oil Lubric.,GOL01,GULFOILLUB
+UCO Bank,UCO03,UCOBANK
+Jagran Prakashan,JP12,JAGRAN
+Elgi Equipment,EE01, ELGIEQUIP
+JK Lakshmi Cem.,JKL01,JKLAKSHMI
+Zydus Wellness,ZW01,ZYDUSWELL
+Equitas Holdings,EH03,EQUITAS
+India Cements,IC,INDIACEM
+Dishman Pharma.,DPC02,DPC02
+South Ind.Bank,SIB,SOUTHBANK
+Polaris Consulta,PSL01,POLARIS
+V I P Inds.,VIP,VIPIND
+APL Apollo,APL03,APLAPOLLO
+Jindal Stain.,JSL01,JSL
+Swan Energy,SM09,SWANENERGY
+NIIT Tech.,NII02,COFORGE
+Caplin Point Lab,CPL,CAPLIPOINT
+Indian Energy Ex,IEE,IEX
+Shoppers St.,SS51,SHOPERSTOP
+Godfrey Phillips,GP10,GODFRYPHLP
+Jindal Stain .Hi,JSL01,JSL
+R C F,RCF01,RCF
+Rallis India,RI03,RALLIS
+Stand.Chart.PLC,SCB01,STAN
+G M D C,GMD,GMDCLTD
+Manpasand Bever.,MB04,MANPASAND
+Tata Inv.Corpn.,TIC,TATAINVEST
+Essel Propack,EP11,EPL
+Allcargo Logist.,AGL02,ALLCARGO
+Radico Khaitan,RK01,RADICO
+Cera Sanitary.,CS18,CERA
+BSE,BSE03,
+Forbes & Co,FG,FORBESGOK
+S B T,SBT,SBT
+KNR Construct.,KC13,KNRCON
+PNC Infratech,PI26,PNCINFRA
+Greenply Inds.,GI19,GREENPLY
+Ujjivan Fin.Ser.,UFS01,UJJIVAN
+Monsanto India,MI39,MONSANTO
+Vinati Organics,VO01,VINATIORGA
+Jindal Saw,,JINDALSAW
+Lux Industries,LHI,LUXIND
+Linde India,BOC,LINDEINDIA
+Ratnamani Metals,RMT,RATNAMANI
+Cox & Kings,CK,COX&KINGS
+Omaxe,O02,OMAXE
+Ashoka Buildcon,AB,ASHOKA
+Time Technoplast,TT03,TIMETECHNO
+Phillips Carbon,PCB01,PHILIPCARB
+Allahabad Bank,AB15,ALBK
+Welspun Corp,WGS,WELCORP
+NESCO,NES,NESCO
+CARE Ratings,CAR,CARERATING
+JP Associates,JA02,JPASSOCIAT
+Andhra Bank,AB14,ANDHRABANK
+Zensar Tech.,ZT02,ZENSARTECH
+S H Kelkar & Co.,KC17,SHK
+Mahindra Holiday,MHR,MHRIL
+Sintex Plastics,SPT,SPTL
+SREI Infra. Fin.,SRE02,SREINFRA
+Techno Elec.,TECHN54214,TECHNOE
+Minda Corp,MC23,MINDACORP
+HMT,HMT,HMT
+KPIT Tech.,KPITT54265,KPITTECH
+Triveni Turbine,TT14,TRITURBINE
+Shankara Build.,SBP02,SHANKARA
+Multi Comm. Exc.,MCE,MCX
+Brigade Enterpr.,BE08,BRIGADE
+Gayatri Projects,GP10,GAYAPROJ
+Magma Fincorp,MF20,MAGMA
+VRL Logistics,VL03,VRLLOG
+ICRA,ICR,ICRA
+Shriram Pistons,SPR02,SHRIPISTON
+IFCI,IFC02,IFCI
+Suprajit Engg.,SE15,SUPRAJIT
+J & K Bank,JKB,J&KBANK
+Navin Fluo.Intl.,NFI,NAVINFLUOR
+Karnataka Bank,KB04,KTKBANK
+Shilpa Medicare,SM19,SHILPAMED
+Kushal,KT06,
+Venky's (India),V03,VENKEYS
+Force Motors,FM01,FORCEMOT
+CCL Products,CC10,CCL
+Excel Crop Care,ECC03,EXCELCROP
+Trident,AI01,TRIDENT
+Corporation Bank,CB,CORPBANK
+Rane Holdings,RH01,RANEHOLDIN
+Team Lease Serv.,TS13,TEAMLEASE
+Oriental Bank,OBC,ORIENTBANK
+I T D C,ITD02,ITDC
+JP Power Ven.,JHP01,JPPOWER
+S C I,S C03,
+JK Tyre & Indust,JKT01,JKTYRE
+Deepak Nitrite,DN,DEEPAKNTR
+Heidelberg Cem.,HCI02,HEIDELBERG
+Amber Enterp.,AEI01,AMBER
+Sharda Cropchem,SC04,SHARDACROP
+Dixon Technolog.,DT07,DIXON
+Himatsing. Seide,HS,HIMATSEIDE
+La Opala RG,LOR,LAOPALA
+H F C L,HFC,HFCL
+Reliance Home,RHF01,RHFL
+Rupa & Co,RC14,RUPA
+Hind.Construct.,HCC,HCC
+Ent.Network,ENI,ENIL
+Supreme Petroch.,SP,SUPPETRO
+MAS FINANC SER,MFS09,MASFIN
+Thyrocare Tech.,TT16,THYROCARE
+Prakash Inds.,PI18,PRAKASH
+Repco Home Fin,RHF01,REPCOHOME
+Sonata Software,SS42,SONATSOFTW
+Central Dep. Ser,CDS,CDSL
+Puravankara,PP01,PURVA
+Tejas Networks,TN,TEJASNET
+ITD Cem,ITD03,ITDCEM
+Hathway Cable,HCD,HATHWAY
+Dhanuka Agritech,DA01,DHANUKA
+Mahindra Logis.,ML04,MAHLOG
+Heritage Foods,HFI,HERITGFOOD
+Mah. Seamless,MS02,MAHSEAMLES
+Navneet Educat.,NP01,NAVNETEDUL
+Firstsour.Solu.,FS07,FSL
+Kaveri Seed Co.,Kaveri,SC01
+Star Ferro Cem.,SFC02,STARCEMENT
+Deepak Fert.,DFP,DEEPAKFERT
+Va Tech Wabag,VTW,WABAG
+Prime Focus,PF13,PFOCUS
+Lak. Vilas Bank,LVB,LAKSHVILAS
+NOCIL,NOC02,NOCIL
+Orient Cement,OC10,ORIENTCEM
+Natl.Fertilizer,NF06,NFL
+L T Foods,L T03,DAAWAT
